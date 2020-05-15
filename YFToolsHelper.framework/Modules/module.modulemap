@@ -1,0 +1,6 @@
+framework module YFToolsHelper {
+  umbrella header "YFToolsHelper.h"
+
+  export *
+  module * { export * }
+}
